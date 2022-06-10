@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlenaTsiarletskaya
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
-- 💞️ I’m looking to start career in Data
+- 👀 I’m growing my Data skills daily 
+- 🌱 I’m currently working as a Data Analyst for industrial company
 - 📫 How to reach me alena.datas@gmail.com
 
 <!---

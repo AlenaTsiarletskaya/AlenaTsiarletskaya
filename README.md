@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlenaTsiarletskaya
-- 👀 I’m growing my Data skills daily 
+- 👀 I’m growing my Data Analytics skills daily 
 - 🌱 I’m currently working as a Data Analyst for industrial company
 - 📫 How to reach me alena.datas@gmail.com
 
